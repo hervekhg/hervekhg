@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hervekhg
-- 👀 I’m interested in Cloud, Kubernetes, Terraform, Python, Go, Kafka
+- 👀 I’m interested in Cloud, Kubernetes, Terraform, Terragrunt, Python, Go, Kafka, AWS, Azure, Gitlab,
 - 🌱 I’m currently learning lot of things
 - 💞️ I’m love traveling, moutains, hiking, reading 
 - You could reach me on twitter:  https://twitter.com/HerveKhg
