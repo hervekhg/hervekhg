@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud, Kubernetes, Terraform, Terragrunt, Python, Go, Kafka, AWS, Azure, Gitlab,
 - 🌱 I’m currently learning lot of things
 - 💞️ I’m love traveling, moutains, hiking, reading 
-- I'm Novel Writer in my free time : shorturl.at/pFQY9
+- I'm Novel Writer in my free time : https://shorturl.at/pFQY9
 - You could reach me on twitter:  https://twitter.com/HerveKhg
 
 <!---
